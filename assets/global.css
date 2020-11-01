@@ -18,7 +18,22 @@ html, body {
   font-size: 1.2rem;
 }
 
+body {
+  margin-bottom: 100px;
+}
+
 a {
   text-decoration: none;
   color: white;
 }
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 100px;
+}
+
