@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+
+  box-sizing: border-box;
+  border: 0;
+  background: none;
+}
+
+html, body {
+  max-height: 100vh;
+  max-width: 100vw;
+
+  height: 100%;
+  width: 100%;
+
+  font-family: Arial;
+  font-size: 1.2rem;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
